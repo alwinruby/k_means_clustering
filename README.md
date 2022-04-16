@@ -18,3 +18,13 @@ It halts creating and optimizing clusters when either:
     The centroids have stabilized — there is no change in their values because the clustering has been successful.
 
     The defined number of iterations has been achieved.
+
+In general.
+
+    Step 1: Import libraries
+    Step 2: Generate random data
+    Step 3: Use Scikit-Learn
+    Step 4: Finding the centroid
+    Step 5: Testing the algorithm
+
+K-means clustering is an extensively used technique for data cluster analysis.
