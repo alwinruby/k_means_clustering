@@ -46,3 +46,15 @@ More specific
         Step-7: The model is ready.
 
 
+Or
+
+        Step-1: Data pre-processing Step
+
+        Step-2: Finding the optimal number of clusters using the elbow method
+
+        Step- 3: Training the K-means algorithm on the training dataset
+
+        Step-4: Visualizing the Clusters
+
+
+
