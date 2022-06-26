@@ -8,7 +8,7 @@ There are three steps
 
 1. Initialisation
 2. Calculate distance and assignment
-3. Move the centres 
+3. Move the centres
 
 
 To process the learning data, the K-means algorithm in data mining starts with a first group of randomly selected centroids, which are used as the beginning points for every cluster, and then performs iterative (repetitive) calculations to optimize the positions of the centroids
@@ -58,3 +58,4 @@ Or
 
 
 
+In a nutshell, k-means clustering tries to minimise the distances between the observations that belong to a cluster and maximise the distance between the different clusters. In that way, we have cohesion between the observations that belong to a group, while observations that belong to a different group are kept further apart.
